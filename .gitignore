@@ -1,3 +1,23 @@
+# Our internal files folder
+#INTERNAL/
+# Thumbnails
+._*
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+# Windows 
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+.Spotlight-V100
+.Trashes
+
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
@@ -25,5 +45,9 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.xml
-*.csv
+#*.xml
+#*.csv
+
+# KiCAD useless
+#*-backups/
+#@eaDir/      
