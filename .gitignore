@@ -51,3 +51,5 @@ fp-info-cache
 # KiCAD useless
 #*-backups/
 #@eaDir/      
+CAD/V1.0/\#auto_saved_files\#
+CAD/V1.0/~ESP-PLC-Relay-Extension-Module-Hardware-Design.kicad_sch.lck
